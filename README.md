@@ -28,6 +28,14 @@
 ...
 
 ## Hardware
+| Component | Image | Quantity | Function | Key Specifications |
+|:---------:|:-----:|:--------:|:--------:|:------------------:|
+| **STM32H747** | <img src="Images/stm32h747.png" width="170"> | 1 | Vision Processing | Dual-core Cortex-M7/M4<br>Camera Interface |
+| **nRF52832** | <img src="Images/nrf52832.png" width="170"> | 1 | Sensor Fusion | Multi-protocol wireless MCU |
+| **GC2145 Camera** | <img src="Images/gc2145.png" width="170"> | 1 | Visual Navigation | 2 MP Resolution<br>80° FOV<br>DCMI Interface |
+| **VL53L3CX ToF** | <img src="Images/vl53l3cx.png" width="170"> | 2 | Side Detection | Up to 4 m Range<br>Wide FoV |
+| **TB6612FNG** | <img src="Images/tb6612.png" width="170"> | 1 | Motor Driver | Dual H-Bridge<br>1.2 A Continuous |
+| **N20 Motors** | <img src="Images/n20.png" width="170"> | 2 | Robot Locomotion | Metal Gear Motors |
 ...
 
 ## Software
