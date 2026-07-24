@@ -1,6 +1,7 @@
 # Micromouse Robot
 <p align="center">
 <img width="500" height="500" alt="ASTRA LOGO-modified" src="https://github.com/user-attachments/assets/878775cc-034a-41c3-a1b8-d090117afba3" />
+> An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses advanced computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
 
 
 ## Table of Contents
