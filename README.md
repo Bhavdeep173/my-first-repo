@@ -1,6 +1,6 @@
 # Micromouse Robot
 <p align="center">
-<img width="200" height="200" alt="ASTRA LOGO-modified" src="https://github.com/user-attachments/assets/878775cc-034a-41c3-a1b8-d090117afba3" />
+<img width="500" height="500" alt="ASTRA LOGO-modified" src="https://github.com/user-attachments/assets/878775cc-034a-41c3-a1b8-d090117afba3" />
 
 
 ## Table of Contents
