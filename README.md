@@ -28,8 +28,46 @@
 | 👥 **Team Photos** | **Team Documentation**<br>• Member profiles<br>• Development journey<br>• Competition preparation | 🔗 [Explore Team Photos Documentation](Team_Photos/README.md) |
 
 
-## Features
-...
+## The Team
+## 👥 Team Introduction & Team Information
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<img src="images/member1.jpg" width="220"><br><br>
+
+### PRANAV NAKKEERAN
+**Chief Strategist**
+
+*Planning • Analysis • Iteration • Strategy Making*
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="images/member2.jpg" width="220"><br><br>
+
+### MOHAMED MIFZAL MAHAROOF
+**Hardware Engineer**
+
+*Wiring • Circuit Design • Power Management*
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="images/member3.jpg" width="220"><br><br>
+
+### AARNAV BHARGAVA
+**Lead Programmer**
+
+*Sensor Integration • Logic • Obstacle Avoidance*
+
+</td>
+</tr>
+</table>
+
 
 ## Hardware
 | Component | Image | Quantity | Function | Key Specifications |
