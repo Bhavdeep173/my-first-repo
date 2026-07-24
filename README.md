@@ -5,17 +5,18 @@
 > An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses advanced computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
 
 
-## Table of Contents
+# 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Hardware](#hardware)
-- [Software](#software)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+- 📂 [Complete Documentation Structure](#-complete-documentation-structure)
+- 👥 [The Team](#-the-team)
+- 🎯 [Challenge Overview](#-challenge-overview)
+- 🤖 [Our Robot](#-our-robot)
+- 🔧 [Electronic Systems](#-electronic-systems)
+- ⚙️ [Mechanical Systems](#-mechanical-systems)
+- 💻 [Software Architecture](#-software-architecture)
+- 📹 [Performance Videos](#-performance-videos)
+- 🌐 [GitHub Utilization & Development](#-github-utilization--development)
+- 📜 [License & Replication](#-license--replication)
 
 ## Introduction
 | 📁 Folder | 🎯 Technical Content | 📖 Detailed Documentation |
